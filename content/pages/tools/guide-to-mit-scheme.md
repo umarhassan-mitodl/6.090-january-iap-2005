@@ -28,14 +28,14 @@ If you have a PC capable of running Scheme, we suggest that you install Scheme o
 
 **Note:** The Scheme system supported in 6.001 for Fall 2001 and subsequent terms is Scheme verson 7.5.1. This is a newer version than has been used in 6.001 in previous semesters. If you have an older version of Scheme (perhaps obtained from someone who took the course previously) please update your system, since problem sets may not run on the older version.
 
-**Special note on Windows XP:** Windows XP Service Pack 2 removes a few files that are needed to run older programs (like MITScheme) under Windows XP. Try the instructions at [Microsoft® Help and Support website](http://support.microsoft.com/default.aspx?scid=kb;en-us;324767) if you have difficulties.
+**Special note on Windows XP:** Windows XP Service Pack 2 removes a few files that are needed to run older programs (like MITScheme) under Windows XP. Try the instructions at {{% resource_link "639d020d-63fd-424d-b157-282462512157" "Microsoft® Help and Support website" %}} if you have difficulties.
 
 ## Unsupported Options
 
 There are several other versions of Scheme available, either for free or for a small fee:
 
-- {{% resource_link "3d70dad1-99e1-5f0b-5081-53934b532a6b" "EdScheme" %}} from [Schemers, Inc.](http://www.schemers.com/)
-- {{% resource_link "05f349d5-b4fc-8099-c797-885d2f882d3f" "DrScheme" %}} from [Rice University](http://www.rice.edu/).
+- {{% resource_link "3d70dad1-99e1-5f0b-5081-53934b532a6b" "EdScheme" %}} from {{% resource_link "dcbb7e62-81bd-472e-b105-5c6c535fcd47" "Schemers, Inc." %}}
+- {{% resource_link "05f349d5-b4fc-8099-c797-885d2f882d3f" "DrScheme" %}} from {{% resource_link "7fb81394-c970-4d7e-972c-bfb13335a2e9" "Rice University" %}}.
 - Any Scheme system you find on the Mac.
 - Any Scheme system you find on Windows 3.1.
 - Any Scheme system you find on Windows 98 or Windows ME.

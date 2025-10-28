@@ -36,4 +36,4 @@ MIT Scheme requires two directories:
 
 ## Installing Problem Sets:
 
-Problem sets will be distributed as ZIP files from the 6.001 Web page. In order to install them, you will need to be able to "unzip" them on your machine. You can use the shareware program [WinZip](http://www.winzip.com/), which provides a graphical user interface as well as integration into both Netscape and Microsoft browsers.
+Problem sets will be distributed as ZIP files from the 6.001 Web page. In order to install them, you will need to be able to "unzip" them on your machine. You can use the shareware program {{% resource_link "21424895-cd3c-4bd2-9995-bd8b87754f07" "WinZip" %}}, which provides a graphical user interface as well as integration into both Netscape and Microsoft browsers.

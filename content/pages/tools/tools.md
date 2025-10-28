@@ -17,11 +17,11 @@ This is an applet that students use to respond to questions in class.
 
 ## 6.090 January (IAP) 2005: Scheme Documentation
 
-[Don't Panic: An Introductory Guide to the 6.001 Computer System](https://www.coursehero.com/file/7049027/dontpanicnew/)   
-This is the revised version of the manual for using Edwin and the MIT Scheme environment. This manual is a basic orientation to the Scheme programming environment, designed for students taking [6.001](https://ocw-studio.odl.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005). It is **highly recommended** that you familiarize yourself with it.
+{{% resource_link "c85dc399-89fb-4e31-8b11-6c694da7ee74" "Don't Panic: An Introductory Guide to the 6.001 Computer System" %}}   
+This is the revised version of the manual for using Edwin and the MIT Scheme environment. This manual is a basic orientation to the Scheme programming environment, designed for students taking [6.001](/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005). It is **highly recommended** that you familiarize yourself with it.
 
 {{% resource_link "cd21f7d8-4cd4-ffef-0618-14a1f4ac3e8e" "Guide to MIT Scheme" %}}   
 This is the reference manual for MIT Scheme, listing all the commands. You should need to look at this rarely, if at all, for 6.001, since any Scheme features required for the course will be introduced in classes and problem sets.
 
-[Revised (5) Report on the Algorithmic Language Scheme](http://www.swiss.ai.mit.edu/~jaffer/r5rs_toc.html)   
+{{% resource_link "539fb766-b516-4c31-8f14-2e74834e4cb3" "Revised (5) Report on the Algorithmic Language Scheme" %}}   
 This is the formal definition of the "standard" Scheme language. It will be interesting for you to look at how a language is described formally, but you should not need to consult this for 6.001.
