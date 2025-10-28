@@ -4,8 +4,6 @@ description: This is a supporting file for lecture 3.
 file: /courses/6-090-building-programming-experience-a-lead-in-to-6-001-january-iap-2005/d517de88b4f051680399b66c6881a3c3_lec3.scm
 file_size: 730
 file_type: text/plain
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

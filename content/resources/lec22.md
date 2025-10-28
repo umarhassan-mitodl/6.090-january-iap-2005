@@ -5,8 +5,6 @@ description: This TEX file contains macros that produce the look-and-feel of the
 file: /courses/6-090-building-programming-experience-a-lead-in-to-6-001-january-iap-2005/4bbff26bf62eff8fbed5f39b12cffe39_lec2.tex
 file_size: 6748
 file_type: text/plain
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

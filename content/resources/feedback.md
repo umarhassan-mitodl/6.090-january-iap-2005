@@ -5,8 +5,6 @@ description: This file includes question to ask for the feedback of the students
 file: /courses/6-090-building-programming-experience-a-lead-in-to-6-001-january-iap-2005/1baa97ba82faacf674b93680e9daa71d_feedback.pdf
 file_size: 45286
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

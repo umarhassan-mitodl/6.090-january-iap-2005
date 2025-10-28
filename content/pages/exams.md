@@ -2,8 +2,6 @@
 content_type: page
 description: This section has all the relevant exam materials like practice problems,
   and quiz 1 along with their solutions.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Exams
 ocw_type: CourseSection

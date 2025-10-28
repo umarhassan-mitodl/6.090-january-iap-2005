@@ -5,8 +5,6 @@ description: This file includes objective, structure of this course, delivery, e
 file: /courses/6-090-building-programming-experience-a-lead-in-to-6-001-january-iap-2005/5197b0ec8f434974a3ad045f44a4ee96_proposal.pdf
 file_size: 65670
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

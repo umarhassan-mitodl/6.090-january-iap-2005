@@ -3,8 +3,6 @@ content_type: page
 description: This section provides the lecture notes files along with the solution
   files for all 9 lectures. It also contains the student notes on the lectures and
   some supporting files to understand the lectures.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection

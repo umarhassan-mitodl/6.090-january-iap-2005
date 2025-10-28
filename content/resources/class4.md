@@ -6,8 +6,6 @@ description: 'Student notes from Lecture 4. This lecture covered the following t
 file: /courses/6-090-building-programming-experience-a-lead-in-to-6-001-january-iap-2005/fd3f5c75ba075053990f62088f5a3798_class4.pdf
 file_size: 159668
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

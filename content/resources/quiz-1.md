@@ -4,8 +4,6 @@ description: ''
 file: /courses/6-090-building-programming-experience-a-lead-in-to-6-001-january-iap-2005/8685037f773969884ac21604a14bf8f4_quiz.tex
 file_size: 7945
 file_type: text/plain
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Exams
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

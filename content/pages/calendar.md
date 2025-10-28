@@ -2,8 +2,6 @@
 content_type: page
 description: This section lists the topics for 9 lectures of the course along with
   the key dates.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar

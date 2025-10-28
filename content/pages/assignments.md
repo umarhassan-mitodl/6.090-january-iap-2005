@@ -2,8 +2,6 @@
 content_type: page
 description: This section contains 8 homework assignment files along with their solutions.
   It also contains supporting files used in assignments.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

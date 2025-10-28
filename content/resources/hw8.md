@@ -4,8 +4,6 @@ description: ''
 file: /courses/6-090-building-programming-experience-a-lead-in-to-6-001-january-iap-2005/faa7f919ed1424a821d673e17ee0923c_hw8.pdf
 file_size: 10611
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

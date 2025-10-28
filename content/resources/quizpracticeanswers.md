@@ -4,8 +4,6 @@ description: This file contains answers to the problems in the practice quiz.
 file: /courses/6-090-building-programming-experience-a-lead-in-to-6-001-january-iap-2005/8c0f6e89bf845307f78044e01db865da_quizpracticeanswers.txt
 file_size: 773
 file_type: text/plain
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Exams
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

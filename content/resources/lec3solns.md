@@ -4,8 +4,6 @@ description: This file includes solutions for problems included in lecture 3.
 file: /courses/6-090-building-programming-experience-a-lead-in-to-6-001-january-iap-2005/c6ba2b604c50746b3304d7aab2546a28_lec3solns.txt
 file_size: 1437
 file_type: text/plain
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

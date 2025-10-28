@@ -28,7 +28,6 @@
     "website": "6-090-building-programming-experience-a-lead-in-to-6-001-january-iap-2005"
   },
   "course_title": "Building Programming Experience: A Lead-In to 6.001",
-  "hide_download": true,
   "course_description": "This course will serve as a two-week aggressively gentle introduction to programming for those students who lack background in the field. Specifically targeted at students with little or no programming experience, the course seeks to reach students who intend to take [6.001](/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005) and feel they would struggle because they lack the necessary background. The main focus of the subject will be acquiring programming experience: instruction in programming fundamentals coupled with lots of practice problems. Lots of programming required, but lots of support provided.\n",
   "department_numbers": [
     "6"
@@ -39,7 +38,6 @@
     "content": "149d4cbf-e919-084b-7214-652e67eb40bb",
     "website": "6-090-building-programming-experience-a-lead-in-to-6-001-january-iap-2005"
   },
-  "hide_download_original": true,
   "learning_resource_types": [
     "Exams with Solutions",
     "Lecture Notes",

@@ -5,8 +5,6 @@ description: This is a supporting file for homework 8 containing code of the gam
 file: /courses/6-090-building-programming-experience-a-lead-in-to-6-001-january-iap-2005/c98a1eedc4adc7d8f0e39f5604be9d9a_advgame.scm
 file_size: 10747
 file_type: text/plain
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
